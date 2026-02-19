@@ -1,0 +1,9 @@
+[
+  {"id":"tshirt-001","title":"Basic T-Shirt","price":19.99,"images":["/images/1.jpeg"],"sizes":["S","M","L"],"colors":["black","white"],"gender":"unisex","category":"Футболки"},
+  {"id":"hoodie-001","title":"Oversized Hoodie","price":49.99,"images":["/images/2.jpeg"],"sizes":["S","M","L","XL"],"colors":["grey","black","burgundy"],"gender":"unisex","category":"Худи"},
+  {"id":"jacket-001","title":"Denim Jacket","price":89.99,"images":["/images/3.jpeg"],"sizes":["M","L","XL"],"colors":["blue","black"],"gender":"unisex","category":"Куртки"},
+  {"id":"dress-001","title":"Midi Dress","price":69.99,"images":["/images/4.jpeg"],"sizes":["S","M","L"],"colors":["black","white","cream"],"gender":"female","category":"Платья"},
+  {"id":"pants-001","title":"Wide Leg Trousers","price":59.99,"images":["/images/5.jpeg"],"sizes":["S","M","L","XL"],"colors":["black","navy","beige"],"gender":"female","category":"Брюки"},
+  {"id":"placeholder-001","title":"Скоро в продаже","price":0,"sizes":["S","M","L"],"colors":["black"],"gender":"unisex","category":""},
+  {"id":"placeholder-002","title":"Новая модель","price":0,"sizes":["M","L"],"colors":["white","grey"],"gender":"unisex","category":""}
+]
